@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Spyder
+.spyproject/
+.spyderproject.cfg
+
+# OS junk
+.DS_Store
+Thumbs.db
